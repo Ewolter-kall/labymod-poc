@@ -9,7 +9,6 @@
 >   - All HTTP endpoints / server-side integrations covered
 > **Method:** Static analysis with grep-based pattern matching against the de-minified bundle
 > **Date:** July 2026
-> **Status:** Test build, not yet publicly released
 
 ---
 
