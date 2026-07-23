@@ -4,7 +4,6 @@
 > **Scope:** Static security audit of the production bundle extracted from `squashfs-root.zip`
 > **Method:** Static analysis of `resources/app/.webpack/main/index.js` (18 MB minified) and `resources/app/.webpack/renderer/main_window/index.js` (17 MB minified) + preload script + package metadata
 > **Date:** July 2026
-> **Status:** Test build, not yet publicly released
 
 ---
 
